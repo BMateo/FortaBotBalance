@@ -1,0 +1,13 @@
+{
+  "developerAbbreviation": "MB",
+  "protocolName": "BalanceCheckGalicia",
+  "protocolAbbreviation": "BCG",
+  "accountBalance": {
+    "contractName1": {
+      "address": "0xd67AE21e8bAd0d0FBb0025D7cAA48800854e9df1",
+      "thresholdEth": 1,
+      "alert": { "type": "severity", "severity": "HIGH" }
+    }
+  },
+  "alertMinimumIntervalSeconds": 45
+}
